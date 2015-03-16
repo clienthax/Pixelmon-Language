@@ -3480,7 +3480,7 @@ gui.battle.back=Back
 gui.battle.whatdo=What will $p do?
 gui.battle.type=Type:
 
-gui.levelupscreen.lvlup=Your $p has grown to level
+gui.levelupscreen.lvlup=Your $p has grown to level %l
 
 gui.mainmenu.fight=FIGHT
 gui.mainmenu.bag=BAG
